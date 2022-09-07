@@ -7,8 +7,7 @@
 <h3>🔎 About me :</h3>
 
 - 🔭 I’m currently ***[hunting jobs](https://imgix.ranker.com/user_node_img/50103/1002043326/original/a-huge-passion-of-mine-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=375)***
-- 🌱 I’m learning: **[Data Science and Machine Learning with Python](https://eportfolio.mygreatlearning.com/hedi-wang![image](https://user-images.githubusercontent.com/111375664/188968413-442a5583-a329-4c48-8b42-9c50f6114ae9.png)
-)**
+- 🌱 I’m learning: **[Data Science and Machine Learning with Python](https://eportfolio.mygreatlearning.com/hedi-wang)**
 - 👯 I’m looking to collaborate on **projects with data scientists**
 - 💬 Ask me about **[the GAME I play the most](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Breath-Of-THe-Wild-Link-Learns-To-Jump-Know-Your-Meme.jpg)**
 - 📫 How to reach me: work.0310201@gmail.com
