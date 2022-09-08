@@ -17,7 +17,7 @@
 <h3>✉️ Connect with me :</h3>
 <p>
    <a href="https://www.kaggle.com/hediwork" ><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="HediWork" height="40" width="40"/></a>
-   <a href="LinkedIn.com/in/HediWork"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="HediWork" height="40" width="40"/></a> 
+   <a href="LinkedIn.com/in/HediWork"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="HediWork" height="40" width="60"/></a> 
 </p>
 
 <h3>🛠 Languages and Tools :</h3>
