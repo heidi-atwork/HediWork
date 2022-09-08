@@ -9,12 +9,12 @@
 - 🔭 I’m currently ***[hunting jobs](https://imgix.ranker.com/user_node_img/50103/1002043326/original/a-huge-passion-of-mine-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=375)***
 - 🌱 I’m learning: **[Data Science and Machine Learning with Python](https://eportfolio.mygreatlearning.com/hedi-wang)**
 - 👯 I’m looking to collaborate on **projects with data scientists**
-- 💬 Ask me about **[the GAME I play the most](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Breath-Of-THe-Wild-Link-Learns-To-Jump-Know-Your-Meme.jpg)**
-- 📫 How to reach me: work.0310201@gmail.com
+- ❓ Ask me about **[the GAME I play the most](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Breath-Of-THe-Wild-Link-Learns-To-Jump-Know-Your-Meme.jpg)**
+- 📧 How to reach me: work.0310201@gmail.com
 - ⚡ **Fun fact: 😛 Java programmers have to wear glasses because they don't C#**
 
 
-<h3>✉️ Connect with me :</h3>
+<h3>🔗 Connect with me :</h3>
 <p>
    <a href="https://www.kaggle.com/hediwork" ><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="HediWork" height="60" width="60"/></a>
    <a href="https://www.LinkedIn.com/in/HediWork"><img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="HediWork" height="30" width="30"/></a> 
