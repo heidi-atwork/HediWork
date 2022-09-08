@@ -33,7 +33,7 @@
    <img src="https://www.sas.com/en_us/home/refs/sas-viya-cloud-providers/_jcr_content/par/styledcontainer_copy/par/image_copy_copy.img.png/1620854004632.png" alt="SAS" width="80" height="50"/></a> 
    <!-- SQL -->
    <a> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="60" height="40"/></a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="70" height="40"/></a>
    <!-- JupyterHub -->
    <a href="https://github.com/HediWork/Data-Analysis-Projects-using-Python" > 
    <img src="https://jupyter.org/assets/homepage/hublogo.svg" alt="JupyterHub" width="80" height="40"/></a>
@@ -45,17 +45,20 @@
    <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo.png" alt="Excel" width="70" height="35"/></a>
    <!-- ArcGIS Pro-->
    <a href="https://github.com/HediWork/Data-Analysis-Projects-using-R-and-SAS" > 
-   <img src="https://static.wixstatic.com/media/93699d_d55fd3a2527748dcac7c5fc02d0509d4~mv2.png/v1/fill/w_382,h_122,al_c,lg_1,q_85,enc_auto/desite_migrate2arcgispro_logoarcgispro_p.png" alt="ArcGIS Pro" width="100" height="40"/></a>
+   <img src="https://static.wixstatic.com/media/93699d_d55fd3a2527748dcac7c5fc02d0509d4~mv2.png/v1/fill/w_382,h_122,al_c,lg_1,q_85,enc_auto/desite_migrate2arcgispro_logoarcgispro_p.png" alt="ArcGIS Pro" width="110" height="40"/></a>
 </p>   
 
-```text
-💬 Programming Languages: 
+
+```
+💬 Programming Languages:
 Python          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45% 
 R               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45%
 SAS             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5%
 SQL             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5%
 
-💻 Operating System: 
+💻 Operating System: </summary>
 Mac             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   80%
 Windows         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20% 
 ```
+
+
