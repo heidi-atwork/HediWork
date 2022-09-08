@@ -22,58 +22,33 @@
 
 <h3>🛠 Languages and Tools :</h3>
 <p>
-   <!-- Vs Code -->
-   <a>
-   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
-   <!-- Docker -->
-   <a href="https://github.com/hud0shnik/golang-to-do" >
-   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
-   <!-- CSS -->
-   <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
-   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
-   <!-- Arch -->
-   <a href="https://github.com/hud0shnik?tab=repositories" > 
-   <img src="https://img.icons8.com/material-sharp/96/4a90e2/arch-linux.png" alt="Arch" width="40" height="40"/></a>
-   <!-- Postgresql -->
-   <a href="https://github.com/hud0shnik/golang-to-do" >
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
-   <!-- Golang -->
-   <a href="https://github.com/search?l=Go&q=user%3Ahud0shnik+language%3AGolang&type=Repositories" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/></a>
-   <!-- Arduino -->
-   <a href="https://github.com/hud0shnik/arduino"  > 
-   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-   <!-- Qt -->
-   <a href="https://github.com/hud0shnik/messenger" > 
-   <img src="https://img.icons8.com/ios-filled/50/26e07f/qt.png" alt="Qt" width="40" height="40"/></a>
    <!-- Python -->
-   <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-   <!-- JavaScript -->
-   <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
-   <!-- Html -->
-   <a href="https://github.com/hud0shnik/hud0shnik.github.io" >
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
-   <!-- Ubuntu -->
-   <a href="https://ubuntu.com/" >
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
-   <!-- Git -->
-   <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-   <!-- Ruby -->
-   <a href="https://github.com/search?l=Ruby&q=user%3Ahud0shnik&type=Repositories" >
-   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/></a>
-   <!-- Visual Studio -->
-   <a href="https://github.com/search?l=C%2B%2B&q=user%3Ahud0shnik&type=Repositories" >
-   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" alt="Visual Studio" width="40" height="40"/></a>
-   <!-- Heroku -->
-   <a href="https://github.com/stars/hud0shnik/lists/my-bots" >
-   <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
-</p>
-<!-- Не работает с 30.08 
-<img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud0shnik&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
--->
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-Python" > 
+   <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" width="80" height="40"/></a>
+   <!-- RStudio -->
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-R-and-SAS" > 
+   <img src="https://d33wubrfki0l68.cloudfront.net/dd8ddc34fe29a71c81183dbe3436cfabbb540e44/b7152/assets/img/rstudio-ball.svg" alt="RStudio" width="40" height="40"/></a>  
+   <!-- SAS -->
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-R-and-SAS" > 
+   <img src="https://www.sas.com/en_us/home/refs/sas-viya-cloud-providers/_jcr_content/par/styledcontainer_copy/par/image_copy_copy.img.png/1620854004632.png" alt="SAS" width="80" height="50"/></a> 
+   <!-- SQL -->
+   <a> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="60" height="40"/></a>
+   <!-- JupyterHub -->
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-Python" > 
+   <img src="https://jupyter.org/assets/homepage/hublogo.svg" alt="JupyterHub" width="80" height="40"/></a>
+   <!-- Google Colaboratory -->
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-Python" > 
+   <img src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb" alt="Google Colaboratory" width="90" height="40"/></a>
+   <!-- Excel -->
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-R-and-SAS" > 
+   <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo.png" alt="Excel" width="70" height="35"/></a>
+   <!-- ArcGIS Pro-->
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-R-and-SAS" > 
+   <img src="https://static.wixstatic.com/media/93699d_d55fd3a2527748dcac7c5fc02d0509d4~mv2.png/v1/fill/w_382,h_122,al_c,lg_1,q_85,enc_auto/desite_migrate2arcgispro_logoarcgispro_p.png" alt="ArcGIS Pro" width="100" height="40"/></a>
+</p>   
+   
+   
 
 <h3>🔥 Statistics :</h3>
 <img alt="Hud0shnik's streak" src="http://github-readme-streak-stats.herokuapp.com?user=hud0shnik&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
