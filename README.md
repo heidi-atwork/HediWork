@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 <h3 align="center"><a href="https://www.linkedin.com/in/hedi-wang/">
-   <img alt="Hedi" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F42F7&width=435&lines=I'm+Hedi;;Beginner+Data+Scientist" alt="Typing SVG" /></a>
+   <img alt="Hedi" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F42F7&width=435&lines=I'm+Hedi;;A+Beginner+Data+Scientist" alt="Typing SVG" /></a>
 </h3>
 
 <h3>🔎 About me :</h3>
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **projects with data scientists**
 - 💬 Ask me about **[the GAME I play the most](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Breath-Of-THe-Wild-Link-Learns-To-Jump-Know-Your-Meme.jpg)**
 - 📫 How to reach me: work.0310201@gmail.com
-- ⚡ **Fun fact: Java programmers have to wear glasses because they don't C#**
+- ⚡ **Fun fact: 😛 Java programmers have to wear glasses because they don't C#**
 
 
 <h3>✉️ Connect with me :</h3>
@@ -23,7 +23,7 @@
 <h3>🛠 Languages and Tools :</h3>
 <p>
    <!-- Vs Code -->
-   <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" >
+   <a>
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
    <!-- Docker -->
    <a href="https://github.com/hud0shnik/golang-to-do" >
