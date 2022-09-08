@@ -16,8 +16,8 @@
 
 <h3>✉️ Connect with me :</h3>
 <p>
-   <a href="https://t.me/hud0shnik" ><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="hud0shnik" height="40" width="40"/></a>
-   <a href="https://vk.com/hud0shnik" ><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="hud0shnik" height="40" width="40"/></a> 
+   <a href="https://www.kaggle.com/hediwork" ><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="HediWork" height="40" width="40"/></a>
+   <a href="LinkedIn.com/in/HediWork"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="HediWork" height="40" width="40"/></a> 
 </p>
 
 <h3>🛠 Languages and Tools :</h3>
