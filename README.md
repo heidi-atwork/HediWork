@@ -10,7 +10,7 @@
 - 🌱 I’m learning: **[Data Science and Machine Learning with Python](https://eportfolio.mygreatlearning.com/hedi-wang)**
 - 👯 I’m looking to collaborate on **projects with data scientists**
 - ❓ Ask me about **[the GAME I play the most](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Breath-Of-THe-Wild-Link-Learns-To-Jump-Know-Your-Meme.jpg)**
-- 📧 How to reach me: work.0310201@gmail.com
+- 📧 How to reach me: Hedi_work@outlook.com
 - ⚡ **Fun fact: 😛 Java programmers have to wear glasses because they don't C#**
 
 
