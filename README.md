@@ -32,7 +32,7 @@
    <a href="https://github.com/HediWork/Data-Analysis-Projects-using-R-and-SAS" > 
    <img src="https://www.sas.com/en_us/home/refs/sas-viya-cloud-providers/_jcr_content/par/styledcontainer_copy/par/image_copy_copy.img.png/1620854004632.png" alt="SAS" width="80" height="50"/></a> 
    <!-- SQL -->
-   <a> 
+   <a href="https://github.com/HediWork/Data-Analysis-Projects-using-SQL-and-R"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="70" height="40"/></a>
    <!-- JupyterHub -->
    <a href="https://github.com/HediWork/Data-Analysis-Projects-using-Python" > 
