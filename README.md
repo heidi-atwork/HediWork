@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 <h3 align="center"><a href="https://www.linkedin.com/in/hedi-wang/">
-   <img alt="Heidi" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d1ed31&width=435&lines=I'm+Heidi;;A+Beginner+Data+Scientist" alt="Typing SVG" /></a>
+   <img alt="Heidi" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f8f27c&width=435&lines=I'm+Heidi;;A+Beginner+Data+Scientist" alt="Typing SVG" /></a>
 </h3>
 
 <h3>🔎 About me :</h3>
