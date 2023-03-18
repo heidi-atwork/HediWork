@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-<h3 align="center"><a href="https://www.linkedin.com/in/hedi-wang/">
+<h3 align="center"><a href="https://www.linkedin.com/in/hey-heidi/">
    <img alt="Heidi" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9fb9e2&width=435&lines=I'm+Heidi;A+Beginner+Data+Scientist;I+Love+Exploring+Data" alt="Typing SVG" /></a>
 </h3>
 
